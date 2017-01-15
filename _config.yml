@@ -6,15 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: abaojin
-brief-intro: Dev Engineer
+title: chengxuechao
+brief-intro: Art Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://abaojin.github.io" # the base hostname & protocol for your site
+url: "https://Chengxuechao.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
-github_username:  abaojin
+github_username:  chengxuechao
 email: abaojin@gmail.com
 weibo_username: abaojin
 zhihu_username: abaojin
